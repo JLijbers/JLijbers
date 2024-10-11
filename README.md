@@ -5,17 +5,17 @@ Currently I'm focused on developing useful applications, leveraging AI models li
 
 ## 🔭 Current Projects
 
-- **Automating Software Development**: Developing a smart tool which automates the development of applications. See video [here](https://www.linkedin.com/feed/update/urn:li:activity:7097949443823419392/).
-- **Chat with your website**: Developing an application to chat with all information on a given website.
+- **Automated Software Development**: By leveraging AI, the application I developed transforms feature requests into code changes: [Joris](https://github.com/JLijbers/Joris).
+- **Chat with your website**: Developed an application to chat with all information on a given website.
 - **Recipe translator**: A demo application to test (co)developing with [GPT-engineer](https://github.com/AntonOsika/gpt-engineer).
-- **No place like home**: Using AI to search for similar images in large non-labeled databases.
+- **No place like home**: Using an AI vision-model and an image index to search for similar images in large non-labeled databases.
 
 ## 🌱 Skills
 
 - Python
-- Predictive Modeling
-- (Semantic) Segmentation Analysis
-- AI applications (OpenAI, Langchain, Vision Transformers)
+- Data Science
+- Machine Learning
+- Developing applications that leverage AI (OpenAI, Langchain, Vision Transformers)
 - Data Analysis and Visualization (e.g. PowerBI)
 
 ## 📫 How to reach me
