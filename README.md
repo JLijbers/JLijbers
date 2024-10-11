@@ -5,7 +5,7 @@ Currently I'm focused on developing useful applications, leveraging AI models li
 
 ## 🔭 Current Projects
 
-- **Automated Software Development**: By leveraging AI, the application I developed transforms feature requests into code changes: [Joris](https://github.com/JLijbers/Joris).
+- **Automated Software Development**: By leveraging AI, my application [Joris](https://github.com/JLijbers/Joris) transforms feature requests into code changes.
 - **Chat with your website**: Developed an application to chat with all information on a given website.
 - **Recipe translator**: A demo application to test (co)developing with [GPT-engineer](https://github.com/AntonOsika/gpt-engineer).
 - **No place like home**: Using an AI vision-model and an image index to search for similar images in large non-labeled databases.
