@@ -1,13 +1,13 @@
 # Hello, I'm Joanne 👋
 
 I'm a Data Scientist turned AI Engineer who loves working with the latest techniques and solutions.
-Currently I'm focused on developing useful applications, leveraging AI models like LLMs and Self-Supervised Learning (SSL).
+Currently I'm focused on developing useful applications, leveraging AI models like LLMs and Vision Transformers.
 
 ## 🔭 Current Projects
 
-- **Automated Software Development**: By leveraging AI, my application [Joris](https://github.com/JLijbers/Joris) transforms feature requests into code changes.
-- **Chat with your website**: Developed an application to chat with all information on a given website.
-- **Recipe translator**: A demo application to test (co)developing with [GPT-engineer](https://github.com/AntonOsika/gpt-engineer).
+- **Automated Software Development**: By leveraging AI, my application [Joris](https://github.com/JLijbers/Joris) transforms feature requests into automatically implemented code changes.
+- **Chat with your website**: Developed a demo-application to chat with all information on a given website, using Retrieval Augmented Generation.
+- **Shop the outfit**: A fashion recommendation app that leverages AI to provide users with tailored outfit suggestions based on their uploaded images ([link](https://shoptheoutfit.nl)).
 - **No place like home**: Using an AI vision-model and an image index to search for similar images in large non-labeled databases.
 
 ## 🌱 Skills
@@ -15,8 +15,7 @@ Currently I'm focused on developing useful applications, leveraging AI models li
 - Python
 - Data Science
 - Machine Learning
-- Developing applications that leverage AI (OpenAI, Langchain, Vision Transformers)
-- Data Analysis and Visualization (e.g. PowerBI)
+- Developing applications that leverage AI
 
 ## 📫 How to reach me
 
